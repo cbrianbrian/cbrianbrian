@@ -46,6 +46,7 @@ A collection of programming projects, experiments, utilities, and anything that 
 
 ---
 
-## Connect with Me
-
+## Social
+- YouTube: https://www.youtube.com/@BarnLabs
+- MakerWorld: https://makerworld.com/en/@cbrian
 - LinkedIn: https://www.linkedin.com/in/brian-casillas-bc9772021/
