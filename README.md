@@ -12,9 +12,9 @@ My progress learning Autodesk software, including mechanical designs, assemblies
 
 ➡️ **Repository:** 
 
-LearnFusion - https://github.com/cbrianbrian/LearningFusion360
+[LearnFusion](https://github.com/cbrianbrian/LearningFusion360)
 
-Balcony Planter - https://github.com/cbrianbrian/BalconyPlanter
+[Balcony Planter](https://github.com/cbrianbrian/BalconyPlanter)
 
 ---
 
