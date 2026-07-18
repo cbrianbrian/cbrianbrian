@@ -4,18 +4,14 @@
 Examples of PCB assembly, soldering, rework, and electronics projects.
 
 ➡️ **Repository:** 
-➡️ **Repository:** [PCB-Soldering-Portfolio](https://)
 ---
 
 ### 🖥️ Autodesk / CAD Projects
 My progress learning Autodesk software, including mechanical designs, assemblies, and practice projects.
 
 ➡️ **Repository:** 
-
 [LearnFusion](https://github.com/cbrianbrian/LearningFusion360)
-
 [Balcony Planter](https://github.com/cbrianbrian/BalconyPlanter)
-
 ---
 
 ### 🧰 Miscellaneous Projects
