@@ -5,7 +5,7 @@ Examples of PCB assembly, soldering, rework, and electronics projects.
 
 ➡️ **Repository:** 
 
-[PCBAssembly, CableAssemblies, & ElectronicsProjects](https://github.com/cbrianbrian/PCBAssembly-CableAssemblies-ElectronicsProjects)
+[PCB Assembly, Cable Assemblies, & Electronics Projects](https://github.com/cbrianbrian/PCBAssembly-CableAssemblies-ElectronicsProjects)
 
 ---
 ### 🖥️ Autodesk / CAD Projects
