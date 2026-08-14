@@ -25,6 +25,8 @@ A collection of miscellaneous projects or experiments that doesn't fit into the 
 
 [Manhattan Project Paper Rewrite](https://github.com/cbrianbrian/Ignition-of-the-Atmosphere-With-Nuclear-Bombs-Rewrite)
 
+[Using AI to Understand the Basics of STM32](https://github.com/cbrianbrian/Using-AI-to-Understand-the-Basics-of-STM32)
+
 ---
 ## Technical Skills
 
